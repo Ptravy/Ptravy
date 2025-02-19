@@ -39,9 +39,9 @@
 
 <!-- Snake -->
 <div align="center">
+    
   ![snake gif](https://github.com/ptravy/ptravy/blob/output/github-snake-dark.svg)
 </div>
-
 <!-- Counter -->
 <div align="center">
   
