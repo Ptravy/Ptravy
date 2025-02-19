@@ -36,18 +36,12 @@
 <a href="https://facebook.com/rovysaputranugeraha" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
 </a>
-
 </div>
-
-
 
 <!-- Snake -->
 <div align="center">
-    
   ![snake gif](https://github.com/ptravy/ptravy/blob/output/github-snake-dark.svg)
 </div>
-
-
 
 <!-- Counter -->
 <div align="center">
