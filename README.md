@@ -37,7 +37,6 @@
 </a>
 </div>
 
-<h2>Aktivitas Programming</h2>
 <!-- Snake -->
 <div align="center">
     
